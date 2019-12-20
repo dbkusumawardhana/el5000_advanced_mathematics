@@ -1,12 +1,12 @@
 # gnb-classifier
 
-Repository for Gaussian Naive Bayes Classifier implementation in Python.
+## Repository for Gaussian Naive Bayes Classifier implementation in Python.
 
-This repository contain solution for Kaggle Data Science Competition.
+This repository contain solution for [Kaggle Data Science Competition](https://www.kaggle.com/c/titanic).
 
-(See the challenge here -> https://www.kaggle.com/c/titanic)
+(See the challenge here -> 
 
-For setting up the environment, do the following command on terminal.
+## For setting up the environment, do the following command on terminal.
 
 Installing virtualenv
 ```
