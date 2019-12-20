@@ -4,8 +4,6 @@
 
 This repository contain solution for [Kaggle Data Science Competition](https://www.kaggle.com/c/titanic).
 
-(See the challenge here -> 
-
 ## For setting up the environment, do the following command on terminal.
 
 Installing virtualenv
